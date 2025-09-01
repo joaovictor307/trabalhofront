@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    background-color: gray;
+}
+
+nav{
+    background-color: black;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: green;
+    font-size: 20px;
+}
+
+h1{
+    background-color: black;
+    color: green;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100px;
+    font-style: normal;
+    
+}
+header{
+    text-align: center;
+  
+}
+div{
+    background-color: black;
+    color: aliceblue;
+    margin-left: 20px;
+    margin-right: 1230px;
+    padding-top: 10px;
+    border-radius: 10px;
+    
+}
+img{
+    margin-left: 30px;
+}
+p{
+    margin-left: 30px;
+    color: green;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+button{
+    color: green;
+    margin-left: 20px;
+    border-radius:10px ;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
